@@ -14,7 +14,7 @@
     <license>MIT</license>
 
     <engines>
-        <engine name="cordova" version="&lt;=3.6.0" />
+        <engine name="cordova" version="&lt;=3.6.3" />
     </engines>    
 
     <asset src="www/childbrowser.js" target="childbrowser.js" />
